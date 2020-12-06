@@ -1,1 +1,1 @@
-﻿mpg,cylinders,displacement,horsepower,weight,acceleration,year,origin,name25,4,98,?,2046,19,71,1,ford pinto21,6,200,?,2875,17,74,1,ford maverick40.9,4,85,?,1835,17.3,80,2,renault lecar deluxe23.6,4,140,?,2905,14.3,80,1,ford mustang cobra34.5,4,100,?,2320,15.8,81,2,renault 18i
+﻿name,mpg,horsepower,cylinders,displacement,weight,acceleration,year,originford pinto,25,?,4,98,2046,19,71,1ford maverick,21,?,6,200,2875,17,74,1renault lecar deluxe,40.9,?,4,85,1835,17.3,80,2ford mustang cobra,23.6,?,4,140,2905,14.3,80,1renault 18i,34.5,?,4,100,2320,15.8,81,2
